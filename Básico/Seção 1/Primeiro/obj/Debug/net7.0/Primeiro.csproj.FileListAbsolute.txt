@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\bin\Debug\net7.0\Primeiro.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\bin\Debug\net7.0\Primeiro.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\bin\Debug\net7.0\Primeiro.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\bin\Debug\net7.0\Primeiro.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\bin\Debug\net7.0\Primeiro.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\refint\Primeiro.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\Primeiro.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Primeiro\obj\Debug\net7.0\ref\Primeiro.dll

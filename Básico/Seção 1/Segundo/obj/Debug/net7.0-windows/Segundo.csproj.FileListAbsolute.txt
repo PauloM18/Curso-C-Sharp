@@ -1,0 +1,17 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\bin\Debug\net7.0-windows\Segundo.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\bin\Debug\net7.0-windows\Segundo.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\bin\Debug\net7.0-windows\Segundo.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\bin\Debug\net7.0-windows\Segundo.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\bin\Debug\net7.0-windows\Segundo.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.Form1.resources
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.csproj.GenerateResource.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\refint\Segundo.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\Segundo.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Segundo\obj\Debug\net7.0-windows\ref\Segundo.dll

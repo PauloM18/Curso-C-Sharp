@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\bin\Debug\net7.0\USort.UInt.Ulong.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\bin\Debug\net7.0\USort.UInt.Ulong.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\bin\Debug\net7.0\USort.UInt.Ulong.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\bin\Debug\net7.0\USort.UInt.Ulong.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\bin\Debug\net7.0\USort.UInt.Ulong.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\refint\USort.UInt.Ulong.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\USort.UInt.Ulong.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\USort.UInt.Ulong\obj\Debug\net7.0\ref\USort.UInt.Ulong.dll

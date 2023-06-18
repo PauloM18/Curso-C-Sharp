@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\bin\Debug\net7.0\Conversao.Numerico.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\bin\Debug\net7.0\Conversao.Numerico.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\bin\Debug\net7.0\Conversao.Numerico.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\bin\Debug\net7.0\Conversao.Numerico.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\bin\Debug\net7.0\Conversao.Numerico.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\refint\Conversao.Numerico.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\Conversao.Numerico.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 2\Conversao.Numerico\obj\Debug\net7.0\ref\Conversao.Numerico.dll

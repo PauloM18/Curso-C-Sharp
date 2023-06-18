@@ -1,0 +1,30 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Foreach\obj\Debug\net7.0\ref\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\BASICO\Seção 4\Foreach\obj\Debug\net7.0\ref\Foreach.dll

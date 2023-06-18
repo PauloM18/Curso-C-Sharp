@@ -1,0 +1,5 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Float.Double.Decimal\obj\Debug\net7.0\Float.Double.Decimal.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Float.Double.Decimal\obj\Debug\net7.0\Float.Double.Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Float.Double.Decimal\obj\Debug\net7.0\Float.Double.Decimal.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Float.Double.Decimal\obj\Debug\net7.0\Float.Double.Decimal.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Float.Double.Decimal\obj\Debug\net7.0\Float.Double.Decimal.csproj.CoreCompileInputs.cache

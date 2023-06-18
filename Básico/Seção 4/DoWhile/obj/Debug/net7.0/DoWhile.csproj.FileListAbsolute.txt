@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\bin\Debug\net7.0\DoWhile.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\bin\Debug\net7.0\DoWhile.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll

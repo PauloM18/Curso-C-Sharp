@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\IfElseElseIf.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\IfElseElseIf.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\IfElseElseIf.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\IfElseElseIf.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\IfElseElseIf.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\refint\IfElseElseIf.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\IfElseElseIf.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\ref\IfElseElseIf.dll

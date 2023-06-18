@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\bin\Debug\net7.0\Char.String.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\bin\Debug\net7.0\Char.String.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\bin\Debug\net7.0\Char.String.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\bin\Debug\net7.0\Char.String.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\bin\Debug\net7.0\Char.String.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\refint\Char.String.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\Char.String.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Char.String\obj\Debug\net7.0\ref\Char.String.dll
