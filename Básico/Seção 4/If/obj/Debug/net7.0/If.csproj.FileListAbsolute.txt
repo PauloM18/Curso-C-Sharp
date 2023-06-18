@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\If.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\If.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\If.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\If.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\bin\Debug\net7.0\If.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\refint\If.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\If.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\If\obj\Debug\net7.0\ref\If.dll

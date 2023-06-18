@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\bin\Debug\net7.0\Objeto.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\bin\Debug\net7.0\Objeto.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\bin\Debug\net7.0\Objeto.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\bin\Debug\net7.0\Objeto.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\bin\Debug\net7.0\Objeto.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\refint\Objeto.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\Objeto.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 3\Objeto\obj\Debug\net7.0\ref\Objeto.dll

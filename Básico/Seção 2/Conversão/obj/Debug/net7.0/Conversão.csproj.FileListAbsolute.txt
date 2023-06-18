@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\bin\Debug\net7.0\Conversão.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\bin\Debug\net7.0\Conversão.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\bin\Debug\net7.0\Conversão.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\bin\Debug\net7.0\Conversão.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\bin\Debug\net7.0\Conversão.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\refint\Conversão.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\Conversão.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Conversão\obj\Debug\net7.0\ref\Conversão.dll

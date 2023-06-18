@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\bin\Debug\net7.0\Byte.SBytes.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\bin\Debug\net7.0\Byte.SBytes.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\bin\Debug\net7.0\Byte.SBytes.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\bin\Debug\net7.0\Byte.SBytes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\bin\Debug\net7.0\Byte.SBytes.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\refint\Byte.SBytes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\Byte.SBytes.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Byte.SBytes\obj\Debug\net7.0\ref\Byte.SBytes.dll

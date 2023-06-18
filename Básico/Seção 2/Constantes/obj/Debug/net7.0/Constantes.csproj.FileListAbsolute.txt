@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\bin\Debug\net7.0\Constantes.exe
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\bin\Debug\net7.0\Constantes.deps.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\bin\Debug\net7.0\Constantes.runtimeconfig.json
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\bin\Debug\net7.0\Constantes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\bin\Debug\net7.0\Constantes.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\refint\Constantes.dll
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.pdb
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\Constantes.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\CURSO DE C#\Udemy C#\Seção 1\Constantes\obj\Debug\net7.0\ref\Constantes.dll
