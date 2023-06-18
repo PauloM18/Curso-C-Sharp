@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Foreach
+<<<<<<< HEAD
 build_property.ProjectDir = C:\PAULO\INFORMATICA\CURSO DE C#\Curso-C-Sharp\Básico\Seção 4\Foreach\
+=======
+build_property.ProjectDir = C:\PAULO\INFORMATICA\Curso de C#\Básico\Seção 4\Foreach\
+>>>>>>> d764388752b96f014aa00e88272fa44122c60354
