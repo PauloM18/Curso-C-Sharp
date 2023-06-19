@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\bin\Debug\net7.0\ArrayMultidimensional.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\bin\Debug\net7.0\ArrayMultidimensional.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\bin\Debug\net7.0\ArrayMultidimensional.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\bin\Debug\net7.0\ArrayMultidimensional.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\bin\Debug\net7.0\ArrayMultidimensional.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\refint\ArrayMultidimensional.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ArrayMultidimensional.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 5\Array Multidimensional\obj\Debug\net7.0\ref\ArrayMultidimensional.dll
