@@ -16,7 +16,11 @@ namespace Sobrescrita
             moto.Marca = "Triumph";
             vei.Marca = "Airbus";
 
-            carro.mover
+            carro.Mover();
+            carro.Mover();
+            carro.MOver();
+
+            console.ReadKey();
         }
     }
 }

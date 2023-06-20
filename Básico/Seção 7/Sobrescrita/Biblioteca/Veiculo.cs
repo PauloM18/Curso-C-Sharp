@@ -13,9 +13,10 @@ namespace Sobrescrita.Biblioteca
         public string QuantMaxPass;
         public string Ano;
 
-        public void Mover()
+        public override void Mover()
         {
-            Console.WhiteLine("Mover chamado dentro de: Veiculo.mover");
+            Console.WriteLine("Mover chamado dentro de: Veiculo.mover");
+
            
         }
     }

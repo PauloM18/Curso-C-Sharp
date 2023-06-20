@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace Sobrescrita.Biblioteca
 {
-    class Moto: Veiculo
+    class Moto : Veiculo
     {
         public int Rodas = 2;
+        public override void Mover()
+        {
+            Console.WriteLine("Mover chamado dentro de: Moto.mover");
+            base.Mover();
+
+        }
     }
 }
