@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\bin\Debug\net7.0\Operadores Aritmeticos.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\bin\Debug\net7.0\Operadores Aritmeticos.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\bin\Debug\net7.0\Operadores Aritmeticos.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\bin\Debug\net7.0\Operadores Aritmeticos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\bin\Debug\net7.0\Operadores Aritmeticos.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\refint\Operadores Aritmeticos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\Operadores Aritmeticos.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Aritmeticos\obj\Debug\net7.0\ref\Operadores Aritmeticos.dll

@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\bin\Debug\net7.0\Operadores Lógicos.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\bin\Debug\net7.0\Operadores Lógicos.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\bin\Debug\net7.0\Operadores Lógicos.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\bin\Debug\net7.0\Operadores Lógicos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\bin\Debug\net7.0\Operadores Lógicos.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\refint\Operadores Lógicos.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\Operadores Lógicos.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Lógicos\obj\Debug\net7.0\ref\Operadores Lógicos.dll

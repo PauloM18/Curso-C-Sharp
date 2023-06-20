@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\bin\Debug\net7.0\Operadores Relacionais.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\bin\Debug\net7.0\Operadores Relacionais.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\bin\Debug\net7.0\Operadores Relacionais.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\bin\Debug\net7.0\Operadores Relacionais.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\bin\Debug\net7.0\Operadores Relacionais.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\refint\Operadores Relacionais.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\Operadores Relacionais.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 9\Operadores Relacionais\obj\Debug\net7.0\ref\Operadores Relacionais.dll
