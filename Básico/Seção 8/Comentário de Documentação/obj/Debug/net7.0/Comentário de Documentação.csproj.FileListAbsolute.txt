@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\bin\Debug\net7.0\Comentário de Documentação.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\bin\Debug\net7.0\Comentário de Documentação.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\bin\Debug\net7.0\Comentário de Documentação.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\bin\Debug\net7.0\Comentário de Documentação.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\bin\Debug\net7.0\Comentário de Documentação.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\refint\Comentário de Documentação.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\Comentário de Documentação.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 8\Comentário de Documentação\obj\Debug\net7.0\ref\Comentário de Documentação.dll
