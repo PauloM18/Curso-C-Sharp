@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca.Biblioteca
+namespace Sobrescrita.Biblioteca
 {
-    internal class Veiculo
+    class Veiculo
     {
         public string Marca;
         public string Modelo;
@@ -15,7 +15,8 @@ namespace Heranca.Biblioteca
 
         public void Mover()
         {
-
+            Console.WhiteLine("Mover chamado dentro de: Veiculo.mover");
+           
         }
     }
 }
