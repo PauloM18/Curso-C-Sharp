@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\bin\Debug\net7.0\Verificar Texto.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\bin\Debug\net7.0\Verificar Texto.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\bin\Debug\net7.0\Verificar Texto.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\bin\Debug\net7.0\Verificar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\bin\Debug\net7.0\Verificar Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\refint\Verificar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\Verificar Texto.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Verificar Texto\obj\Debug\net7.0\ref\Verificar Texto.dll

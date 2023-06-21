@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\bin\Debug\net7.0\Substuir Texto.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\bin\Debug\net7.0\Substuir Texto.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\bin\Debug\net7.0\Substuir Texto.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\bin\Debug\net7.0\Substuir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\bin\Debug\net7.0\Substuir Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\refint\Substuir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\Substuir Texto.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Substuir Texto\obj\Debug\net7.0\ref\Substuir Texto.dll

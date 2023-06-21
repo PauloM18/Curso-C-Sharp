@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\bin\Debug\net7.0\Formatando String.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\bin\Debug\net7.0\Formatando String.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\bin\Debug\net7.0\Formatando String.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\bin\Debug\net7.0\Formatando String.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\bin\Debug\net7.0\Formatando String.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\refint\Formatando String.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\Formatando String.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Formatando String\obj\Debug\net7.0\ref\Formatando String.dll

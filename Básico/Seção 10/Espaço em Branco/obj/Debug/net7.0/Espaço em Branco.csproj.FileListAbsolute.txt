@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\bin\Debug\net7.0\Espaço em Branco.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\bin\Debug\net7.0\Espaço em Branco.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\bin\Debug\net7.0\Espaço em Branco.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\bin\Debug\net7.0\Espaço em Branco.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\bin\Debug\net7.0\Espaço em Branco.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\refint\Espaço em Branco.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\Espaço em Branco.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Espaço em Branco\obj\Debug\net7.0\ref\Espaço em Branco.dll

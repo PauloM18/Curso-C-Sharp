@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\bin\Debug\net7.0\Localizar Texto.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\bin\Debug\net7.0\Localizar Texto.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\bin\Debug\net7.0\Localizar Texto.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\bin\Debug\net7.0\Localizar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\bin\Debug\net7.0\Localizar Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\refint\Localizar Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\Localizar Texto.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Localizar Texto\obj\Debug\net7.0\ref\Localizar Texto.dll
