@@ -8,5 +8,9 @@ namespace Localizar_Codigo.Lib
 {
     internal class veiculo
     {
+        public static void Mover()
+        {
+            Console.WriteLine("Veiculo > mover");
+        }
     }
 }

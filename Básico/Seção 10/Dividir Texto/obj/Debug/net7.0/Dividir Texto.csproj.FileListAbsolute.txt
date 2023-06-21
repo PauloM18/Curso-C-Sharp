@@ -1,0 +1,15 @@
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\bin\Debug\net7.0\Dividir Texto.exe
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\bin\Debug\net7.0\Dividir Texto.deps.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\bin\Debug\net7.0\Dividir Texto.runtimeconfig.json
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\bin\Debug\net7.0\Dividir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\bin\Debug\net7.0\Dividir Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.csproj.AssemblyReference.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.AssemblyInfoInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.AssemblyInfo.cs
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.csproj.CoreCompileInputs.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\refint\Dividir Texto.dll
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.pdb
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\Dividir Texto.genruntimeconfig.cache
+C:\PAULO\INFORMATICA\Curso de C#\Curso-C-Sharp\Básico\Seção 10\Dividir Texto\obj\Debug\net7.0\ref\Dividir Texto.dll
